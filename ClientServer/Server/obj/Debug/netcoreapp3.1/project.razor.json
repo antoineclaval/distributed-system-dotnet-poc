@@ -1,0 +1,30 @@
+{
+  "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Server/ClientServer.Server.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "ClientServer.Server",
+  "Documents": [
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Server/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Server/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

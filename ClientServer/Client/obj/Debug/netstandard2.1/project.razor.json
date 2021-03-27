@@ -1,0 +1,56 @@
+{
+  "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/ClientServer.Client.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "3.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "ClientServer.Client",
+  "Documents": [
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/Shared/MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/Shared/NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/Pages/Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/Shared/SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/Pages/FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/antoine/git/BlazorDocker/ClientServer/Client/Pages/Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
