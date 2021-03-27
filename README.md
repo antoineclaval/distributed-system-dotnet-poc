@@ -18,11 +18,31 @@ Client Project - uses nginx on alpine base image. Blazor is the front-end langua
 #### Server 
 Server Project- uses ASP.NET runtime image
 
-### HardwareModule
+### HarwareModuleSimulator
 Contains a ASP.NET Core server hosting a REST API allowing to control a similated hardware. Reuse this part if you need to implement a real hardware module. 
 
+#### REST API 
+
+GET /Command/api/hw/status 
+
+POST /Command/api/hw/start
+
+POST /Command/api/hw/stop
+
+
+#### Init 
+The init command to created that project : 
+
+#### Build docker images
+docker build --pull -t hardware-simulator .
+
+#### Run Docker images for that module
+docker run --rm -it hardware-simulator -p 80:80
+
+
 ### DB 
-Pull a standard docker images for Postgres and initialize it. Command to the hardware module and state changes are logged to the DB
+Pull a standard docker images for Postgres and initialize it. 
+
 
 
 ## Installation 

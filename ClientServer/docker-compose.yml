@@ -1,3 +1,4 @@
+# Note for code chalenge reviewer. See reference for this project here : https://github.com/jongio/BlazorDocker
 # Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP .NET Core service.
 version: '3.4'
 
